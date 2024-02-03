@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @Java7755
 - 👀 I am interested in working from home...
-- 🌱 I am currently learning React, and improving my skills in JavaScript, HTML, CSS, Node.js and express.
+- 🌱 As a Full Stack Programmer I am currently learning React and improving my skills in JavaScript, HTML, CSS, Node.js and express.
 - 💞️ I am looking to collaborate as a programmer in website development, to be able to work part-time.
 - 📫 How to reach me, from my social networks:
        Instagram --> javier.cristani
